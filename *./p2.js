@@ -169,3 +169,4 @@ function addele(strar){
     }
     return add.join('-')
 }
+console.log(addele(['[5, 2, 3]', '[2, 2, 3, 10, 6]']));
