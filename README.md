@@ -1,2 +1,2 @@
 # myrepo
-THis is the first change
+this is the second message
