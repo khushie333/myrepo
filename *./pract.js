@@ -260,12 +260,13 @@ const fruits=["banana","orange","apple","mango"];
 // //console.log(fruits.sort());
 // console.log(fruits.toSorted());
 
-console.log(Math.min.apply(null,array));
-console.log(Math.max.apply(null,array));
-console.log(5%2);
-console.log(5/2);
-const isevn=n=>n%2===0;
-console.log(isevn(4));
+// console.log(Math.min.apply(null,array));
+// console.log(Math.max.apply(null,array));
+// console.log(5%2);
+// console.log(5/2);
+// const isevn=n=>n%2===0;
+// console.log(isevn(4));
+console.log("pract.js")
 
 
 
